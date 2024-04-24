@@ -1,0 +1,2 @@
+1. frist go to office 2021 folder using cmd
+2. Second run this commond setup.exe /configure Configuration.xml
