@@ -1,6 +1,6 @@
 import os
 import re
-df
+
 def extract_emails_from_file(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
